@@ -12,3 +12,8 @@ packages:
   gitUrl: https://bitbucket.org/testartiibm
   gitUsername: artikhare
   gitBranch: master
+- name: EmployeePayroll
+  gitServerName: src_shared_GitLabCtrl_Arti
+  gitUrl: https://gitlab.com/testarti/artigroupfolder/artisecondgroupfolder
+  gitUsername: ArtiKhareGitlab
+  gitBranch: main
