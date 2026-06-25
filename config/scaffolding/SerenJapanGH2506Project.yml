@@ -11,4 +11,4 @@ packages:
   gitServerName: srcCtrl_shared_bitbucket_Arti
   gitUrl: https://bitbucket.org/testartiibm
   gitUsername: artikhare
-  gitBranch: main
+  gitBranch: nestedBB/newbranch
