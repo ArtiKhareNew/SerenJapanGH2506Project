@@ -7,11 +7,6 @@ packages:
   gitUrl: https://github.com/ArtiKhareNew
   gitUsername: ArtiKhareNew
   gitBranch: main
-- name: EmployeePayroll
-  gitServerName: src_shared_GitLabCtrl_Arti
-  gitUrl: https://gitlab.com/testarti/artigroupfolder/artisecondgroupfolder
-  gitUsername: ArtiKhareGitlab
-  gitBranch: main
 - name: upperfspackage
   gitServerName: srcCtrl_bitbucket_Arti
   gitUrl: https://bitbucket.org/testartiibm
